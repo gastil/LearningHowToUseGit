@@ -1,3 +1,4 @@
 Yet another sample file for learning how to use github.
-A second line of text.
+A second line of text. Putting text on this line so it will not auto merge. 
 A third line of text.
+Now this file is on my desktop and I am editing it with TextEdit. 
